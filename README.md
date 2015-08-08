@@ -1,4 +1,4 @@
-Prints pascals triangle.
+# Print pascals triangle [![Build Status](https://travis-ci.org/jamesrr39/pascals-triangle.svg?branch=master)](https://travis-ci.org/jamesrr39/pascals-triangle)
 
 Print the 20th row
 
