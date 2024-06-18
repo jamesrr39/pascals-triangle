@@ -23,4 +23,4 @@ zero_based_max_row = args.max_row - 1
 for index, row_number in enumerate(range(0, args.max_row)):
     current_row = [1] if (0 == index) else triangle.get_next_row(current_row)
     if True == args.print_all_rows or index is zero_based_max_row:
-        print current_row
+        print(current_row)

@@ -1,5 +1,3 @@
-__author__ = 'james'
-
 import unittest
 import triangle
 
